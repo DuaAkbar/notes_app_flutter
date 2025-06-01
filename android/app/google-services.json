@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773125965993",
+    "project_id": "crudappnotes",
+    "storage_bucket": "crudappnotes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773125965993:android:7bbf5f530903ecf3c881b8",
+        "android_client_info": {
+          "package_name": "com.example.crudapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFoZxdBJtK2cPRMO07RMedSiklfneG44Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
