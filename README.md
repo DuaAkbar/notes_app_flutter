@@ -1,16 +1,26 @@
-# crudapp
+# Notes App (Flutter)
 
-A new Flutter project.
+A clean and simple cross-platform notes app built using Flutter and Firebase.
 
-## Getting Started
+## 🔐 Features
+- User authentication with Firebase (Sign-up, Login)
+- Add, edit, delete notes (CRUD)
+- Responsive and minimal UI
 
-This project is a starting point for a Flutter application.
+## 🛠 Tech Stack
+- Flutter & Dart
+- Firebase Authentication & Firestore
+- Git & GitHub
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 How to Run
+1. Clone the repo:
+git clone https://github.com/ElmasAkbar/notes_app_flutter.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Run:
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Connect your Firebase project.
+4. Run the app on emulator or device.
+
+## 📸 Screenshots
+(Add if you have them later)
