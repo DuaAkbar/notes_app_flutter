@@ -23,4 +23,20 @@ flutter pub get
 4. Run the app on emulator or device.
 
 ## 📸 Screenshots
-(Add if you have them later)
+![Home Page](assets/images/homepage.png)
+
+### 🔐 Login Page
+![Login Page](assets/images/login.png)
+
+### 📝 Register Page
+![Register Page](assets/images/register.png)
+
+### ➕ Create Note
+![Create](assets/images/create.png)
+
+### 🔄 Update Note
+![Update](assets/images/update.png)
+
+### 🗑️ Delete Functionality
+![Delete](assets/images/deletefunctionality.png)
+
