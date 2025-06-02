@@ -14,7 +14,7 @@ A clean and simple cross-platform notes app built using Flutter and Firebase.
 
 ## 🚀 How to Run
 1. Clone the repo:
-git clone https://github.com/ElmasAkbar/notes_app_flutter.git
+git clone https://github.com/DuaAkbar/notes_app_flutter.git
 
 2. Run:
 flutter pub get
